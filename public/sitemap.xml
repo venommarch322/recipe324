@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tastecookly.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipes.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-breakfast.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-lunch.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-dinner.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-dessert.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-snack.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/recipe-drink.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/category-breakfast.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://tastecookly.com/about.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tastecookly.com/contact.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tastecookly.com/privacy-policy.html</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://tastecookly.com/disclaimer.html</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://tastecookly.com/terms-and-conditions.html</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://tastecookly.com/refund-and-returns.html</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://tastecookly.com/shipping-policy.html</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+</urlset>
